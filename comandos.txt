@@ -1,0 +1,4 @@
+// Poner en escucha el typescript
+npm tsc -w
+// Ejecutar el servidor
+npx nodemon dist/
