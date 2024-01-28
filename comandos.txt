@@ -2,3 +2,7 @@
 npm tsc -w
 // Ejecutar el servidor
 npx nodemon dist/
+// TAGS
+git tag
+git tag -a v1.0.0 -m "REST Server listo"
+git push --tags
