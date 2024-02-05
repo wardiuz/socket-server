@@ -1,6 +1,8 @@
 // Poner en escucha el typescript
 npm tsc -w
+npx tsc -w
 // Ejecutar el servidor
+npm nodemon dist/
 npx nodemon dist/
 // TAGS
 git tag
